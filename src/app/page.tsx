@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./components/Home/Home";
 const Homepage = () => {
   return (
-    <div className="overflow-hidden">
+    <div>
       <Home />
     </div>
   );
